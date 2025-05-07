@@ -13,10 +13,13 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## 🧾 Program
 a=int(input())
+
 if(a%2==0):
     print("EVEN")
+    
+
 else:
-    print("ODD")
+   print("ODD")
 ## Output
 ![image](https://github.com/user-attachments/assets/02df3907-789b-4ac3-ac38-4b416f7f35d2)
 
