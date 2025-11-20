@@ -23,7 +23,7 @@ To write a Python program that reads the real and imaginary parts of a complex n
 ## 🧾 Program
 a=int(input())
 
-b=int(input())
+b=int(input()) 
 
 x=complex(a,b)
 
