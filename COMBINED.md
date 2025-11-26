@@ -30,6 +30,7 @@ else:
 ## Result
  Thus,the Python program to check whether the given number is **even** or **odd** using `if...else` statements is created successfully. 
 
+
 # 1B.Datatypes-Boolean Expression Evaluation in Python
 
 ## Aim
@@ -87,6 +88,7 @@ print(b)
 
 ## Result
 Thus,the Python program that prints the characters `'T'` and `'a'` using character literals is created successfully.
+
 # 1D.Datatypes-Complex Number Creation in Python
 
 ## Aim
@@ -115,5 +117,28 @@ print(x.imag)
 
 ## Result
 Thus,the Python program that reads two integers, creates a complex number using them, and then prints the complex number along with its real and imaginary parts is created successfully.
+
+# 1E.Datatypes-Read and Print a String in Python
+
+## Aim
+To write a Python program to read a string from the user and then print it.
+
+## Algorithm
+1. Assign a variable named `men_stepped_on_the_moon`.
+2. Use `input()` to read a string from the user and store it in the variable.
+3. Print the value stored in the variable.
+
+## Program
+```
+men_stepped_on_the_moon=input()
+print(men_stepped_on_the_moon)
+```
+## Output
+![image](https://github.com/user-attachments/assets/4f908af4-3ede-436b-ab3a-ce1aa9a7adc4)
+
+
+## Result
+Thus,the Python program to read a string from the user and then print it is created successfully.
+
 
 
